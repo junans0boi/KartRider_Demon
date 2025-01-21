@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Unity 관련 디렉토리 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
